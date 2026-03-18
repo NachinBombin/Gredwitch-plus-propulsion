@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/gb_rocket_2000gp"
+	"$vertexcolor" 			1
+	"$vertexalpha" 			1
+	"$nolod" 				1
+}
